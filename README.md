@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Adenilson Cordeiro! 👋
 
-Here are some ideas to get you started:
-
 - 👨🏼‍💻 Hoje eu trabalho como Dev. Júnior
 - 👨🏼‍🎓 Graduado em Sistemas de informação e pós graduando em tecnologias e inovações WEB.
 - 💬 Amo estudar e aprender coisas novas. 
