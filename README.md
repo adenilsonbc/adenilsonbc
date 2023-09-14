@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Adenilson Cordeiro! 👋
 
-- 👨🏼‍💻 Hoje eu trabalho como Desenvolvedor na Alboom.
+- 👨🏼‍💻 Atualmente trabalgo como Desenvolvedor na Alboom.
 - 👨🏼‍🎓 Sou graduado em sistemas de informação e pós-graduando em tecnologias e inovações WEB.
-- 💬 Amo estudar e aprender coisas novas. 
-- 📩 Clique no ícone do Gmail e entre em contato! 
+- 💬 Adoro estudar e aprender coisas novas. 
 - ⚡ No início pensei que em sistemas de informação, não teria que programar. Porque pensei que não seria capaz de entender aquela imensidão de códigos. Hoje eu amo análisa-los e resolver problemas.👊
 
 ##
@@ -27,6 +26,4 @@
   <a href = "mailto:adenilsonc7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/adenilsonbc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/adenilsonbc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
 </div>
