@@ -6,8 +6,10 @@
 - ⚡ No início pensei que em sistemas de informação, não teria que programar. Porque pensei que não seria capaz de entender aquela imensidão de códigos. Hoje eu amo análisa-los e resolver problemas.👊
 
 ##
-
-
+<div align="center">
+  <a href="https://github.com/adenilsonbc">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenilsonbc&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adenilson_Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
