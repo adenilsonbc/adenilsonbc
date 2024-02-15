@@ -32,3 +32,7 @@
     <a href="https://instagram.com/adenilsonbc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/adenilsoncordeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div class="right">
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" />
+</div>
