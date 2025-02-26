@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Adenilson Cordeiro! 👋
 
-- 👨🏼‍💻 Atualmente trabalho como Desenvolvedor na Alboom.
-- 👨🏼‍🎓 Sou graduado em sistemas de informação e pós-graduado em tecnologias e inovações WEB.
+- 👨🏼‍💻 Desenvolvedor na Alboom.
+- 👨🏼‍🎓 Graduado em sistemas de informação e pós-graduado em tecnologias e inovações WEB.
 - 💬 Adoro estudar e aprender coisas novas. 
-- ⚡ No início pensei que em sistemas de informação, não teria que programar. Porque pensei que não seria capaz de entender aquela imensidão de códigos. Hoje eu amo análisa-los e resolver problemas.👊
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adenilsonbc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
